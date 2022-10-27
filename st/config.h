@@ -1,7 +1,11 @@
 // Fonts
-static char *font = "JetbrainsMono Nerd Font Mono:pixelsize=15:antialias=true:autohint=true";
+//static char *font = "JetbrainsMono Nerd Font:pixelsize=15:antialias=true:autohint=true";
+//static char *font2[] = {
+//  "VictorMono Nerd Font Mono:pixelsize=15:antialias=true:autohint=true"
+//};
+static char *font = "Iosevka Nerd Font:pixelsize=15:antialias=true:autohint=true";
 static char *font2[] = {
-  "VictorMono Nerd Font Mono:pixelsize=15:antialias=true:autohint=true"
+  "Iosevka Nerd Font:pixelsize=15:antialias=true:autohint=true"
 };
 
 // Settings
